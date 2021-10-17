@@ -1,1 +1,2 @@
-worker: node index
+pekerja: indeks simpul
+pekerja: node main.js
